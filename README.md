@@ -18,3 +18,11 @@ Contido da lista invertida:
  3, 2, 1, 0, -1, -2
 Contido da lista borrada:
 Lista baleira.
+
+Exemplo gráfico made in China:
+
+https://www.linkedin.com/posts/hamed-moayeri-40036553_programming-softwareengineering-coding-ugcPost-6584670887071535104-6obG
+
+O método chino é máis eficiente que o meu porque o meu método ten complexidade algorítmica O(n), sendo n o número de valores da lista, mentras que o médo chino ten complexidade algorítmica O(1).
+
+É dicir, que o meu algoritmo é lineal mentras que o algoritmo chino é constante, ergo nos van a comer los chinos con cachelos, por lo menos a mí.
