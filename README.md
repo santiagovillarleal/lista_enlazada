@@ -1,7 +1,7 @@
 # lista_enlazada
 Programa feito en C que crea, invirte e borra unha lista simplemente enlazada usando punteiros (linked list).
-Cada elemento da lista é un nodo que contén un número enteiro.
-Cada nodo será consecutivo, o usuario debe indicar o valor inicial e o número de elementos da lista.
+Cada elemento da lista é un nodo que contén un número enteiro (valor).
+Cada valor será consecutivo, o usuario debe indicar o valor inicial e o número de elementos da lista.
 
 Modo de compilación:
 
