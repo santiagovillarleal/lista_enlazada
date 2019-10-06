@@ -3,7 +3,8 @@
 
 typedef struct t_nodo t_nodo;
 
-struct t_nodo{
+struct t_nodo
+{
   int valor;
   t_nodo *sig;
 };
